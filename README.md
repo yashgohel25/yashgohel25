@@ -1,3 +1,4 @@
+<title>yash gohel 25</title>
 <meta name="google-site-verification" content="ZB217vokAEgJBuraOP3vI0NXeYzP-5v7S8fhk34VmIY" />
 <h1 align="center">Hi 👋, I'm yash gohel</h1>
 <h3 align="center">A passionate web develope .</h3>
